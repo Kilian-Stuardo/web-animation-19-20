@@ -10,22 +10,22 @@ labels: 'week-1, week-1-introduction'
 *A small heads up before you begin typing, never mention your name in combination with your HvA student number in public.*
 
 ## Name
-`Add your name here`
+`Kilian Stuardo`
 
 ## Class
-`Add your class here`
+`VID 1`
 
 ## About me
-`Write something about yourself`
+`i like video games, music and pizza.`
 
 ## Goals
-`What are your goals for this class?`
+`Beter worden in code en meer confident in code worden (code trauma) en er meer creatief mee kunnen denken`
 
 ## Skill level
-`How would you describe you skill level? (e.g. beginner, intermediate, advanced, geek)`
+`beginner / intermediate`
 
 ## GitHub username
-`Add a link to your github page`
+`https://github.com/Kilian-Stuardo`
 
 ## GitHub repository
-`Add a link to your github repository`
+`https://github.com/Kilian-Stuardo/Web-Animatie`
